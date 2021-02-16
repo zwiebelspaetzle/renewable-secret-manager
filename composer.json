@@ -1,5 +1,5 @@
 {
-  "name": "zwiebelspaetzle/secret-manager",
+  "name": "renewable-secret-manager/secret-manager",
   "type": "library",
   "description": "A simple object for storing renewable secrets, such as JWTs.",
   "keywords": [
