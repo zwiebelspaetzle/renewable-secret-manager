@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use \Zwiebelspaetzle\SecretManager\SecretManager;
+use \RenewableSecretManager\SecretManager\SecretManager;
 
 class SecretManagerUnitTest extends TestCase
 {

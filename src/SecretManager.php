@@ -1,5 +1,5 @@
 <?php
-namespace Zwiebelspaetzle\SecretManager;
+namespace RenewableSecretManager\SecretManager;
 
 class SecretManager
 {
